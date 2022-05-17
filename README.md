@@ -1,6 +1,6 @@
 # Daily_Meals
 
-A new Flutter project.
+A Flutter app to view meals. Uses concepts of stateManagement and navigation.
 
 ## Getting Started
 
